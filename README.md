@@ -1,6 +1,8 @@
-<div align="center" style="background: url('assets/bg.gif') center/cover; display:inline-block; padding:20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=535&height=200&lines=Hey+there+%F0%9F%91%8B%2C+I%E2%80%99m+Murtaza+%E2%80%94+Let%E2%80%99s+Build!;Code.+Create.+Innovate.;Building+the+Future%2C+One+Commit+at+a+Time+%E2%8F%B3" />
-</div>
+<p align="center">
+  <img src="https://github.com/MurtazaD1410/MurtazaD1410/assets/github.gif" alt="Hey there 👋, I’m Murtaza — Let’s Build! Code. Create. Innovate. Building the Future, One Commit at a Time ⏳">
+</p>
+
+
 
 ## 🚀 About Me
 
