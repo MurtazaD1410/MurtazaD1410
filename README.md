@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MurtazaD1410/MurtazaD1410/assets/github.gif" alt="Hey there 👋, I’m Murtaza — Let’s Build! Code. Create. Innovate. Building the Future, One Commit at a Time ⏳">
+  <img src="assets/github.gif" alt="Hey there 👋, I’m Murtaza — Let’s Build! Code. Create. Innovate. Building the Future, One Commit at a Time ⏳">
 </p>
 
 
