@@ -1,4 +1,9 @@
-# Hi there, I'm Murtaza Dhariwala 👋
+<div align="center" style="background: url('assets/bg.gif') center/cover; display:inline-block; padding:20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=535&height=200&lines=Hey+there+%F0%9F%91%8B%2C+I%E2%80%99m+Murtaza+%E2%80%94+Let%E2%80%99s+Build!;Code.+Create.+Innovate.;Building+the+Future%2C+One+Commit+at+a+Time+%E2%8F%B3" />
+</div>
+
+
+![Visitor Count](https://profile-counter.glitch.me/MurtazaD1410/count.svg)
 
 ## 🚀 About Me
 I'm a **Software Developer** currently pursuing my **Masters in Global Software Development** at Hochschule Fulda, Germany. With over a year of professional experience, I'm passionate about building scalable web applications and exploring new technologies.
