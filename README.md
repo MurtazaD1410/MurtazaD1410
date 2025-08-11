@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/github.gif" alt="Hey there 👋, I’m Murtaza — Let’s Build! Code. Create. Innovate. Building the Future, One Commit at a Time ⏳">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1200&height=300&lines=Hey+there+%F0%9F%91%8B%2C+I%E2%80%99m+Murtaza+%E2%80%94+Let%E2%80%99s+Build!;Code.+Create.+Innovate.;Building+the+Future%2C+One+Commit+at+a+Time+%E2%8F%B3)](https://git.io/typing-svg)
+
 </p>
-
-
 
 ## 🚀 About Me
 
