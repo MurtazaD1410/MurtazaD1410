@@ -2,10 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=535&height=200&lines=Hey+there+%F0%9F%91%8B%2C+I%E2%80%99m+Murtaza+%E2%80%94+Let%E2%80%99s+Build!;Code.+Create.+Innovate.;Building+the+Future%2C+One+Commit+at+a+Time+%E2%8F%B3" />
 </div>
 
-
-![Visitor Count](https://profile-counter.glitch.me/MurtazaD1410/count.svg)
-
 ## 🚀 About Me
+
 I'm a **Software Developer** currently pursuing my **Masters in Global Software Development** at Hochschule Fulda, Germany. With over a year of professional experience, I'm passionate about building scalable web applications and exploring new technologies.
 
 - 🔭 Currently working on full-stack web applications
@@ -16,6 +14,7 @@ I'm a **Software Developer** currently pursuing my **Masters in Global Software 
 ## 💻 Tech Stack
 
 ### Languages
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
@@ -26,6 +25,7 @@ I'm a **Software Developer** currently pursuing my **Masters in Global Software 
 </p>
 
 ### Frontend
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" height="30"/>
@@ -36,6 +36,7 @@ I'm a **Software Developer** currently pursuing my **Masters in Global Software 
 </p>
 
 ### Backend & Database
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>
   <img src="https://skillicons.dev/icons?i=express" alt="Express" width="30" height="30"/>
@@ -47,6 +48,7 @@ I'm a **Software Developer** currently pursuing my **Masters in Global Software 
 </p>
 
 ### Tools & Others
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
@@ -58,15 +60,19 @@ I'm a **Software Developer** currently pursuing my **Masters in Global Software 
 ## 🎯 Featured Projects
 
 ### 🌐 Vibe
+
 Vibe — An AI-powered website builder that creates websites using Gemini 2.5 Pro with live previews and code review features.
 
 ### 🎯 Taskmaster
+
 Full-stack task management application with Django REST API and Nuxt 3 frontend. Features role-based permissions, team collaboration, and Kanban board with drag-and-drop functionality.
 
 ### 📊 Developer Dashboard
+
 Comprehensive GitHub analytics platform with interactive data visualization, Stripe subscription monetization, and team collaboration features.
 
 ### 🏠 Airbnb Clone
+
 Full-featured booking platform built with React.js and Node.js, implementing JWT authentication, Stripe payments, and Cloudinary image processing.
 
 ## 📈 GitHub Stats
